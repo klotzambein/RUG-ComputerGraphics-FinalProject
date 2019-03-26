@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fragshader.glsl</file>
+        <file>shaders/vertshader.glsl</file>
+        <file>textures/snakes.png</file>
+        <file>textures/terrain.png</file>
+    </qresource>
+</RCC>
